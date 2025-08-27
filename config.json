@@ -1,0 +1,10 @@
+
+{
+  "token: "MTQxMDE4OTM2NTgxMjEzODAxNA.GZyBv4.f1222SDeFhC7RISzyJlVvUMY84oYSwQ5z4eNF8QUI",
+  "prefix": "!",
+  "clientId": "TU_CLIENT_ID",
+  "guildId": "ID_SERVIDOR_PRINCIPAL",
+  "ownerId": "ID_DUEÑO",
+  "logsChannelId": "ID_CANAL_LOGS",
+  "ticketsCategoryId": "ID_CATEGORIA_TICKETS"
+}
